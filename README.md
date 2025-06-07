@@ -10,6 +10,12 @@
 - Превключване между „Моите събития“ и „Всички събития“
 - Профил с имейл, име и списък с личните събития
 
+![image](https://github.com/user-attachments/assets/ac43b00e-6d19-4986-8e6e-64e0fef6333e)
+![image](https://github.com/user-attachments/assets/885216aa-46b2-44d8-a79e-bd1050146502)
+![image](https://github.com/user-attachments/assets/5f9aaf37-2e6a-4035-bd89-741093a9c2f6)
+![image](https://github.com/user-attachments/assets/828a59d1-7854-40a3-994d-5dc65fad0490)
+![image](https://github.com/user-attachments/assets/e1cfab92-4529-4f71-8669-97d83c7bcf9f)
+
 ---
 
 ## Използвани технологии
